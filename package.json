@@ -1,0 +1,32 @@
+{
+  "name": "returndotjs",
+  "version": "1.1.0",
+  "description": "Return it.",
+  "keywords": [
+    "return"
+  ],
+  "homepage": "https://github.com/10xly/returndotjs#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/returndotjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/returndotjs.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@10xly/global": "^1.0.0",
+    "amp-is-function": "^1.0.1",
+    "array-get-member": "^1.0.3",
+    "construct-new": "^2.0.5",
+    "es-intrinsic-cache": "^1.0.4",
+    "lodash.stubobject": "^4.13.0"
+  },
+  "devDependencies": {}
+}
